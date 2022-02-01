@@ -335,7 +335,7 @@ body {
   border-radius: 5px;
   background-color: #F2CF59;
   height: 45%;
-  margin-top: 1250px;
+  margin-top: 1275px;
   margin-left: 20%;
   display: flex;
 }
@@ -348,9 +348,9 @@ body {
   justify-content: right;
   border-radius: 5px 5px 0 0;
   float: right;
-  margin-top: 7%;
+  margin-top: 4%;
   margin-right: 50px;
-  display: flex;
+  
 }
 .cardtot {
   box-shadow: 0 2px 4px 0 rgba(0,0,0,0.2);
@@ -359,7 +359,7 @@ body {
   border-radius: 5px;
   background-color: #A7BC5B;
   height: 45%;
-  margin-top: 106px;
+  margin-top: 110px;
   margin-left: 20%;
 }
 
@@ -370,7 +370,7 @@ body {
   /* justify-content: left; */
   border-radius: 5px 5px 0 0;
   float: left;
-  margin-top: -33%;
+  margin-top: -37%;
   margin-left: 70px;
   height:500px;
   display: flex;
